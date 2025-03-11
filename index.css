@@ -46,7 +46,7 @@
 .u-section-1 .u-shape-4 {
   width: 936px;
   height: 538px;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -1553,7 +1553,7 @@
 .u-section-4 .u-shape-1 {
   width: 542px;
   height: 94px;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -1576,7 +1576,7 @@
 .u-section-4 .u-group-1 {
   width: 542px;
   height: auto;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -1605,7 +1605,7 @@
 .u-section-4 .u-group-2 {
   width: 542px;
   height: auto;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -1661,7 +1661,7 @@
 .u-section-4 .u-group-3 {
   width: 542px;
   height: auto;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -1690,7 +1690,7 @@
 .u-section-4 .u-group-4 {
   width: 542px;
   height: auto;
-  background-image: linear-gradient(#edbdcd, #f9cfb6);
+  background: white;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
