@@ -46080,7 +46080,15 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 85px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-bottom: 0;
+  }
+}
  .u-footer {
   background-image: linear-gradient(to bottom, rgba(166, 72, 102, 0.5), rgba(148, 94, 156, 0.5)), linear-gradient(to bottom, rgba(166, 72, 102, 1), rgba(166, 72, 102, 1));
   background-position: 50% 50%, 50% 50%;
@@ -46135,7 +46143,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 128px;
+    min-height: 90px;
   }
 
   .u-footer .u-text-1 {
